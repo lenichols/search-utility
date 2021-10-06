@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "strict": false,
+      "forceConsistentCasingInFileNames": true,
+      "esModuleInterop": true,
+      "target": "es6",
+      "skipLibCheck": true,
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true,
+      "suppressImplicitAnyIndexErrors": true,
+      "noFallthroughCasesInSwitch": true,
+      "outDir": "dist",
+      "lib": [
+        "es5", "es6", "dom", "dom.iterable"
+      ]
+    },
+    "lib": ["es2015"]
+  }

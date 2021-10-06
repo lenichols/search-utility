@@ -1,0 +1,7 @@
+Simple installation of Search Utility
+
+1/ from the root – run “Yarn install” or “Npm install”
+
+2/ from the client folder – run “Yarn install” or “Npm install”
+
+To run the application including the “node” server which dispatches server events from event source by running “yarn run dev” or “npm run dev” from the client folder.
